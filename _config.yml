@@ -101,7 +101,4 @@ theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: git
-  repo: git@github.com:jing-gou/jing-gou.github.io.git
-  branch: master
+
